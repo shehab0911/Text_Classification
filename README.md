@@ -1,4 +1,4 @@
-# Bengali and English Text Classification Web App
+# Text Classification Web App
 
 This project is a Flask-based web application designed for classifying text in both Bengali and English into predefined topics. It leverages machine learning models to predict topics such as Politics, Corruption, Mob Justice, and more, based on user-provided text or uploaded CSV files. The application supports text preprocessing, tokenization, and topic prediction, with a user-friendly interface for real-time interaction.
 
@@ -36,7 +36,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/shehab0911/Text_Classification.git
    cd your-repo-name
    ```
 
